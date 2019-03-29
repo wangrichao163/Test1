@@ -6,5 +6,6 @@
 
 文档名字 | 干什么的
 ---|---
- [Springmvc源码和redis知识点（2018.8.22）.docx](https://github.com/wangrichao163/babybutt/tree/master/doc) | 讲义
- [Redis各知识点（2018.8.26）.rar](https://github.com/wangrichao163/babybutt/tree/master/doc) | 精讲
+ [Springmvc源码和redis知识点](https://github.com/wangrichao163/babybutt/tree/master/doc) | 讲义
+ [Redis各知识点](https://github.com/wangrichao163/babybutt/tree/master/doc) | 精讲
+ [Java常见的多线程问题](https://github.com/wangrichao163/babybutt/blob/master/doc%E7%BA%BF%E7%A8%8B.md) | 精讲
