@@ -17,6 +17,7 @@
 而对于没有获取到锁的线程将会阻塞到方法入口处，直到获取锁的线程 `monitor.exit` 之后才能尝试继续获取锁。
 
 流程图如下:
+![](https://github.com/wangrichao163/babybutt/blob/master/doc/syn.png)
 
 通过一段代码来演示:
 
