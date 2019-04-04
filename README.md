@@ -1,6 +1,6 @@
 # 面试资料整理
 ## 这是干什么的
-> Java面试宝典，-感谢tangpc贡献的文档
+> Java面试宝典，-感谢 - [tangpc](https://github.com/wadetpc)贡献的文档
 
 ### 资料整理
  - [Java常见的多线程问题](https://github.com/wangrichao163/babybutt/blob/master/doc%E7%BA%BF%E7%A8%8B.md) 
